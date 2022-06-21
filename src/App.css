@@ -5,6 +5,12 @@
 }
 
 .App {
-  background-color: black;
-  text-align: center;
+  align-items: center;
+  background: url('./images/background.png') black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 100vh;
+  padding: 0 32px;
+  width: 100%;
 }

@@ -4,3 +4,12 @@
   flex-direction: column;
   margin-bottom: 48px;
 }
+
+.MissionsCardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+  max-width: 80rem;
+  width: 100%;
+}
