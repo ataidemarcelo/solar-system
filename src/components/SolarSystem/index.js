@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Title from '../Title';
 
 import './style.css';
 
@@ -6,7 +7,7 @@ class SolarSystem extends Component {
   render() {
     return (
       <div className="SolarSystemContainer" data-testid="solar-system">
-        <h1>SolarSystem</h1>
+        <Title headline="Planetas" />
       </div>
     );
   }

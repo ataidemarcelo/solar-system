@@ -1,0 +1,9 @@
+.Title {
+  border: 1px solid rgb(102, 101, 101);
+  border-radius: 8px;
+  color: white;
+  margin: 32px 0;
+  padding: 16px 0;
+  text-align: center;
+  width: 60%;
+}
