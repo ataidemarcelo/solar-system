@@ -1,0 +1,23 @@
+.PlanetCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.ImageContainer {
+  align-items: center;
+  display: flex;
+  height: 160px;
+  justify-content: center;
+}
+
+.PlanetImage {
+  border-radius: 100%;
+  text-align: bottom;
+  width: 180px;
+}
+
+.PlanetName {
+  color: white;
+}

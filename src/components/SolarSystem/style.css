@@ -1,5 +1,16 @@
 .SolarSystemContainer {
+  align-items: center;
   color: white;
   display: flex;
+  flex-direction: column;
   justify-content: center;
+}
+
+.PlanetsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
+  max-width: 80rem;
+  width: 100%;
 }
