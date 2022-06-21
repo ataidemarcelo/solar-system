@@ -8,6 +8,7 @@
 }
 
 .MissionName {
+  background-color: rgba(0, 0, 0, 0.6);
   border-bottom: 1px solid rgb(102, 101, 101);
   font-size: 1.2rem;
   font-weight: 700;
@@ -15,6 +16,7 @@
 }
 
 .InfoContainer {
+  background-color: rgba(0, 0, 0, 0.4);
   color: #ccc;
   padding: 24px 16px;
 }

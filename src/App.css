@@ -6,7 +6,7 @@
 
 .App {
   align-items: center;
-  background: url('./images/background.png') black;
+  background: url('./images/background.png') black fixed;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
